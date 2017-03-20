@@ -22,3 +22,7 @@ func TestS3(t *testing.T){
    // use mockS3!
 }
 ```
+
+## Roadmap
+
+Other AWS SDK APIs might be added in the future depending on requirements.
